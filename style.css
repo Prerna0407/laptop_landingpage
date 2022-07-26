@@ -79,19 +79,19 @@ li .nav-link{
   
 }
 h2.well {
-    font-size: 56px;
+        font-size: 43px;
     margin-top: 30px;
 }
 p.p4 {
-    font-size: 20px;
+   font-size: 17px;
 }
 img.img3 {
-    height: 51vh;
-    width: 120%;
+      height: 72vh;
+    width: 100%;
 }
-.col-5.img-content-1 {
+/* .col-5.img-content-1 {
     margin-left: 248px;
-}
+} */
 .description{
     padding-bottom: 20px;
     color: black;
@@ -104,9 +104,9 @@ span{
     font-size: 22px;
 }
 .card1{
-    width: 484px !important;
-    margin: 30px;
-    height: 618px;
+   width: 359px !important;
+    margin: 23px;
+    height: 525px;
 
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
@@ -173,8 +173,8 @@ h3 {
     font-family: cursive;
 }
 .img4 {
-     height: 46vh;
-    width: 1300px;
+ height: 64vh;
+    width: 763px;
 }
 button.btn {
     background: #080842;
